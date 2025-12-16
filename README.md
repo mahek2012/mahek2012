@@ -1,4 +1,4 @@
-👋 Hi, I'm Rupa Prajapati
+👋 Hi, I'm Mahek Savaliya
 
 🚀 Full Stack Developer | 💼 Working at Codespire, Surat
 
@@ -8,7 +8,7 @@
 🌱 Learning modern frontend animations & full-stack scalability  
 🏢 Working at Codespire, Surat  
 💬 Ask me about Next.js, React, MongoDB, Express.js, GSAP  
-📫 Reach me at: rup823@gmail.com  
+📫 Reach me at: mahek12@gmail.com  
 ⚡ Fun fact: I animate pixels & caffeinate bugs ☕🐞  
 
 🛠️ Tech Stack
@@ -21,7 +21,7 @@
 
 🙋‍♂️ My Self
 ━━━━━━━━━━━━━━━
-👤 Name   : Rupa Prajapati  
+👤 Name   : Mahek Savaliya 
 🏫 College: Sutex College of compute Application & Science 
 📍 State  : Gujarat  
 🎯 Hobby  : Coding & Learning New Technologies  
