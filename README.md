@@ -2,8 +2,9 @@
 <h3 align="center">🚀 Full Stack Developer | 💼 Working at Codespire, Surat</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Z2b2R0bGJzY3M5dG5lZ2NwNjJzNmw5dW9lYWV2eXRkZzY0b2g3diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD2saalBwwftBIY/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="300"/>
 </p>
+
 
 
 
