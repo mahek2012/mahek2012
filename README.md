@@ -1,10 +1,10 @@
 <h1 align="center">👋 Hi, I'm Mahek Savaliya</h1>
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+Developer;💼+Working+at+Codespire,+Surat;🌱+Learning+Modern+Web+Technologies" 
-    alt="Typing SVG" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+Developer+|+💼+Working+at+Codespire,+Surat" 
   />
 </p>
+
 
 
 <p align="center">
