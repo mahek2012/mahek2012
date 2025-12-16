@@ -1,11 +1,29 @@
-## Hi there 👋
-Hi 👋, I'm Mahek Savaliya
-🚀 Aspiring Full Stack Developer
+👋 Hi, I'm Rupa Prajapati
 
-🔭 Currently building small web projects
-🌱 Learning modern web technologies
-💻 Passionate about coding & problem solving
-💬 Ask me about web development basics
-📫 Reach me at: mahek.email@example.com
+🚀 Full Stack Developer | 💼 Working at Codespire, Surat
 
-⚡ Fun fact: I love debugging more than coding 😄
+👨‍💻 About Me
+━━━━━━━━━━━━━━━
+🚀 Currently working on Next.js, GSAP & MERN projects  
+🌱 Learning modern frontend animations & full-stack scalability  
+🏢 Working at Codespire, Surat  
+💬 Ask me about Next.js, React, MongoDB, Express.js, GSAP  
+📫 Reach me at: rup823@gmail.com  
+⚡ Fun fact: I animate pixels & caffeinate bugs ☕🐞  
+
+🛠️ Tech Stack
+━━━━━━━━━━━━━━━
+💻 HTML • CSS • JavaScript • TypeScript  
+⚛️ React • Next.js  
+🟢 Node.js • Express.js  
+🍃 MongoDB  
+🔧 Git • GitHub • VS Code  
+
+🙋‍♂️ My Self
+━━━━━━━━━━━━━━━
+👤 Name   : Rupa Prajapati  
+🏫 College: Sutex College of compute Application & Science 
+📍 State  : Gujarat  
+🎯 Hobby  : Coding & Learning New Technologies  
+
+⭐ Thank you for visiting my GitHub profile!
