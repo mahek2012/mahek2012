@@ -8,18 +8,18 @@
 ---
 
 ## 👨‍💻 About Me
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🚀 Currently working on **Next.js, GSAP & MERN projects**  
 🌱 Learning **modern frontend animations & full-stack scalability**  
 🏢 Working at **Codespire, Surat**  
 💬 Ask me about **Next.js, React, MongoDB, Express.js, GSAP**  
-📫 Reach me at: **rup823@gmail.com**  
+📫 Reach me at: **mahek12@gmail.com**  
 ⚡ Fun fact: *I animate pixels & caffeinate bugs* ☕🐞  
 
 ---
 
 ## 🛠️ Tech Stack
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,git,github,vscode" />
@@ -28,7 +28,7 @@
 ---
 
 ## 🙋‍♂️ My Self
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 👤 **Name:** Mahek Savaliya
 🏫 **College:** Sutex College of Computer Application & Science  
 📍 **State:** Gujarat  
@@ -37,7 +37,7 @@
 ---
 
 ## 📊 GitHub Stats
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
